@@ -1,3 +1,3 @@
-### ZyfhonCanary
+### ZyfhonCanary 🤖
 
 - Base do ZyfhonCanary
